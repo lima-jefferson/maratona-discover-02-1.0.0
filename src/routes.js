@@ -5,6 +5,7 @@ const views = __dirname + '/views/';
 
 const profile = {
   name: 'Jefferson de Lima Sousa',
+  //avatar: 'https://avatars.githubusercontent.com/u/58711245?v=4',
   avatar: 'https://avatars.githubusercontent.com/u/58711245?v=4',
   'monthly-budget': 3000,
   'days-per-week': 5,
